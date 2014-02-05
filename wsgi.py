@@ -6,5 +6,4 @@ os.chdir(os.path.dirname(__file__))
 import site
 site.addsitedir(os.getcwd())
 
-import server
-application = server.app
+from application import app as application
