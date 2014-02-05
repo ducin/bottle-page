@@ -1,0 +1,9 @@
+{
+  "name": "bottle-test",
+  "authors": [
+    "Tomasz Ducin <tomasz.ducin@gmail.com>"
+  ],
+  "dependencies": {
+    "bootstrap": "3.0.1"
+  }
+}
